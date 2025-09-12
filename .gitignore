@@ -1,1 +1,15 @@
+# CLion / CMake build files
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+*.o
+*.obj
+*.exe
 
+# JetBrains CLion project settings
+.idea/
+
+# Misc
+*.log
+*.tmp
