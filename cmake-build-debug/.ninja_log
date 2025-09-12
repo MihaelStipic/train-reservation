@@ -1,0 +1,10 @@
+# ninja log v6
+17	6363	7793895982091683	CMakeFiles/untitled.dir/main.cpp.obj	ff7f4500f5871aa4
+6363	8488	7793896045546675	untitled.exe	156b213749b39a51
+33	1168	7793895982251681	CMakeFiles/untitled.dir/Vlak.cpp.obj	bec888ad2a7677c0
+18	1000	7793921965492723	CMakeFiles/untitled.dir/Korisnik.cpp.obj	3835664041c3df29
+36	1438	7793921965676441	CMakeFiles/untitled.dir/RezervacijaVoznje.cpp.obj	2322acb34111cb56
+27	1473	7793921965586428	CMakeFiles/untitled.dir/Voznja.cpp.obj	79c9764247f9fbee
+46	1997	7793921965786502	CMakeFiles/untitled.dir/Rezervacija.cpp.obj	42e51d5bac664bb
+9	5791	7793921965411521	CMakeFiles/untitled.dir/main.cpp.obj	ff7f4500f5871aa4
+5791	7787	7793922023232615	untitled.exe	bfdf768d3d3872b0
