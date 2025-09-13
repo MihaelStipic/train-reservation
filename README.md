@@ -35,5 +35,5 @@ Ovo je moj prvi veći pokušaj da povežem više klasa i koncepata u jednu aplik
 
 ## Autor
 
-Ime i prezime  
+Mihael Stipic
 GitHub: [MihaelStipic](https://github.com/MihaelStipic)
